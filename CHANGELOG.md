@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.1.1-SNAPSHOT] - 2019-11-04
+### Added
+- Readme description
+
 ## [1.1.0-SNAPSHOT] - 2019-11-04
 ### Added
 - Reading and writing to Kafka with Spring Cloud Stream
